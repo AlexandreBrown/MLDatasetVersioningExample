@@ -1,0 +1,4 @@
+[core]
+    remote = mydataset-storage
+['remote "mydataset-storage"']
+    url = s3://mldataset-test/datasets/mydataset/
